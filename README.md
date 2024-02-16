@@ -59,16 +59,12 @@ Response no ok
    "Response": null
 }
 
-```
-Work area
------------- 
-
-* Dirección de transformación digital 
+``` 
 
 Developed By
 ------------
 
-* Jonathan Castillo Hurtado  - <hdsolu.jcastillo@xxi-banorte.com>    
+* Jonathan Castillo Hurtado  - <developer.jonathanc@gmail.com>    
 
 
 Version
